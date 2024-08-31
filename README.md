@@ -7,7 +7,11 @@ Firstly, I searched up google's gesture recognisiton as a guide point (Link can 
 
 
 ## Current update on the project
-Date - 26/08/24
+Date - 30/08/24
 
 I'm currently working on training my own model so that it can detect my own hand signals.
- I'm collecting data to train the model. This is consuming a lot of time, so I'm assuming at least a week or even two just to collect data.
+ I've finished collecting data and will now work on training the AI model. I'm thinking of either using Voice detection for the mathmatical symbols. OR a screen with the symbols 
+
+ Date - 31/08/24
+
+ wild ride today, I spent so much time on finding the right versions because of failed library installations. I have made a requirement folder that worked for me, but please do try and see what works for you. 
