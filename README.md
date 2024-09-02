@@ -15,3 +15,7 @@ I'm currently working on training my own model so that it can detect my own hand
  Date - 31/08/24
 
  wild ride today, I spent so much time on finding the right versions because of failed library installations. I have made a requirement folder that worked for me, but please do try and see what works for you. 
+
+ Date - 2/09/24
+
+ Don't try to attemp to to run the training code on your laptop as google.colab doesn't work unless you run it in the google colab environment. I recommend you upload your folder( that is structured similar to the sample folder provided in the repo )to to Google Drive, then run the code they provide here: https://colab.research.google.com/github/googlesamples/mediapipe/blob/main/examples/customization/gesture_recognizer.ipynb#scrollTo=sx8PsrwYjvgO. I'll also have an example of the code in the repo.
