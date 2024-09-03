@@ -18,4 +18,7 @@ I'm currently working on training my own model so that it can detect my own hand
 
  Date - 2/09/24
 
- Don't try to attemp to to run the training code on your laptop as google.colab doesn't work unless you run it in the google colab environment. I recommend you upload your folder( that is structured similar to the sample folder provided in the repo )to to Google Drive, then run the code they provide here: https://colab.research.google.com/github/googlesamples/mediapipe/blob/main/examples/customization/gesture_recognizer.ipynb#scrollTo=sx8PsrwYjvgO. I'll also have an example of the code in the repo.
+ Don't try to attemp to to run the training code on your laptop as google.colab doesn't work unless you run it in the google colab environment. I recommend you upload your folder( that is structured similar to the sample folder provided in the repo )to to Google Drive, then run the code they provide here: https://colab.research.google.com/github/googlesamples/mediapipe/blob/main/examples/customization/gesture_recognizer.ipynb#scrollTo=sx8PsrwYjvgO. Edit the code they provide by adding the destination of your file from your google drive, and make sure the folder that is created at the end is also saved in your google drive. for each folder that is labelled, make sure to have 50-100 images to train the data.
+
+ Date - 3/9/24
+ I have got the code running and is showing some results when I put my hand in front of the screen. Next is to get a visual representation of the hand. I'm not sure if the actual model is good but I shall try next run.
